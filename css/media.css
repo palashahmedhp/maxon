@@ -1,0 +1,811 @@
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /*header start*/
+.header {
+    padding: 5px 0;
+}
+.menu ul li a {
+    margin-right: 0px;
+    margin-bottom: 5px;
+}
+/*banner start*/
+.banner {
+    padding: 110px 0 40px 0;
+}
+.b_two {
+    order: 2;
+}
+.b_text {
+    
+    text-align: center;
+    margin-top: 25px;
+}
+.b_text h1 {
+    font-size: 29px;
+}
+.b_text p {
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+.bt_positon {
+    display: none;
+}
+.b_one {
+    order: 1;
+}
+.b_img {
+
+    
+}
+.b_position {
+    display: none;
+}
+/*about start*/
+.about {
+    padding: 21px 0;
+}
+.about-img-group {
+    text-align: center;
+}
+.ab_img_bg {
+    display: none;
+}
+.ab_img1 {
+    min-width: 65%;
+    position: static;
+    margin-bottom: 40px;
+}
+.ab_img2 {
+  position: static;
+    
+}
+.content-box-fluid {
+    text-align: center;
+}
+.content-box-fluid h1 {
+    font-size: 26px;
+}
+.content-box-fluid h5 {
+    font-size: 18px;
+}
+/*special feature start*/
+.special {
+    margin-top: -15px;
+}
+.s_feature {
+    padding: 25px 10px;
+    margin-bottom: 10px;
+}
+.common {
+    margin-bottom: 40px;
+}
+.common h1 {
+    font-size: 25px;
+}
+
+/*recent work start*/
+.recent {
+    margin-top: 30px;
+}
+.re {
+    margin-bottom: 25px;
+}
+.dis {
+    order: 1;
+}
+.dis2 {
+    order: 2;
+}
+.sm_margin {
+    margin-bottom: 20px;
+}
+.r_text {
+    margin-top: 25px;
+    margin-left: 0;
+    text-align: center;
+}
+.r_text h2 {
+    font-size: 19px;
+    margin-bottom: 10px;
+}
+.r_text p {
+    line-height: 27px;
+    margin-bottom: 3px;
+}
+.r_image {
+    order: 1;
+}
+/*completed work start*/
+.completed {
+    margin-top: 15px;
+    padding: 30px 0;
+}
+.com {
+    margin: 18px 0;
+}
+.com h2 {
+    font-size: 35px;
+}
+.com h3 {
+    font-size: 16px;
+}
+
+/*completed work end*/
+
+/*testimonial start*/
+.testimonial {
+    margin-top: 50px;
+}
+.t_text {
+    text-align: center;
+    margin-right: 0;
+    margin-left: 0;
+}
+.t_text img {
+    margin-bottom: 30px;
+}
+.t_text p {
+    margin-bottom: 20px;
+}
+.mil {
+    margin-left: 5px;
+ }
+
+ /*team member start*/
+ .member {
+    margin-top: 50px;
+}
+.common {
+    margin-bottom: 30px;
+}
+
+.t_member {
+    padding: 10px 5px;
+    margin-bottom: 25px;
+}
+
+/*latest new start*/
+.news {
+    margin-top: 15px;
+}
+.news p {
+    text-align: center !important;
+    margin-left: 0 !important;
+
+}
+.news h2 {
+    font-size: 20px;
+    margin-left: 0 !important;
+    text-align: center;
+}
+.icons {
+    margin-left: 0 !important;
+    text-align: center;
+}
+.one {
+    float: none !important;
+    text-align: center;
+
+}
+.two a {
+    margin-left: 184px;
+}
+/*latest new end*/
+/*contact us start*/
+.contact {
+    margin-top: 50px;
+}
+.f_text h1 {
+    font-size: 23px;
+}
+.f_icon {
+    margin-bottom: 30px;
+}
+.f_icon ul li {
+    margin-bottom: 15px;
+}
+.f_button {
+    margin-top: 40px;
+    margin-left: 0;
+}
+
+/*partner start*/
+.partner {
+    margin-top: 50px;
+}
+
+/*footer start*/
+.footer1 {
+    margin-top: 50px;
+    padding:50px 0;
+}
+
+.fot_item {
+    margin-bottom: 40px;
+    text-align: center;
+}
+.service {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.info {
+    margin-top: 40px;
+}
+.insta {
+    text-align: center;
+
+}
+.instagram {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.info {
+    margin-top: 40px;
+    text-align: center;
+}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.header {
+    padding: 5px 0;
+}
+.menu ul li a {
+    margin-right: 0px;
+    margin-bottom: 5px;
+}
+/*banner start*/
+.banner {
+    padding: 120px 0 39px 0;
+}
+.b_text {
+    text-align: center;
+    margin-top: 50px;
+}
+.b_text h1 {
+    font-size: 50px;
+}
+.b_text p {
+    line-height: 27px;
+    margin-bottom: 18px;
+}
+.bt_positon {
+    display: none;
+}
+.b_img {
+    width: 350px;
+    margin: 0 auto;
+}
+.b_position {
+    display: none;
+}
+/*about start*/
+.about {
+    padding: 70px 0;
+}
+.about-img-group {
+    text-align: center;
+}
+.ab_img_bg {
+    display: none;
+}
+.ab_img1 {
+   position: static;
+   margin-bottom: 40px;
+
+}
+.ab_img2 {
+  position: static;
+    
+}
+.content-box-fluid {
+    text-align: center;
+}
+.content-box-fluid h1 {
+    font-size: 34px;
+}
+.content-box-fluid h5 {
+    font-size: 22px;
+}
+/*special feature start*/
+.special {
+    margin-top: -50px;
+}
+.common {
+    margin-bottom: 40px;
+}
+.common h1 {
+    font-size: 30px;
+}
+.s_feature {
+    padding: 25px 15px;
+    margin-bottom: 30px;
+}
+/*recent work start*/
+.recent {
+    margin-top: 50px;
+}
+.r_text {
+ margin-top: 40px;
+ margin-left: 0;
+}
+.r_text h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.r_text p {
+    line-height: 27px;
+    margin-bottom: 3px;
+}
+/*completed work start*/
+
+.completed {
+    margin-top: 50px;
+    padding: 30px 0;
+}
+.com {
+    margin: 20px 0;
+}
+.com h2 {
+    font-size: 40px;
+}
+.com h3 {
+    font-size: 20px;
+}
+
+/*completed work end*/
+/*testimonial start*/
+.testimonial {
+    margin-top: 60px;
+}
+.t_text {
+    text-align: center;
+    margin-right: 0;
+    margin-left: 0;
+}
+.t_text img {
+    margin-bottom: 30px;
+}
+.t_text p {
+    margin-bottom: 30px;
+}
+/*team member start*/
+.member {
+    margin-top: 50px;
+}
+.t_member {
+    margin-bottom: 25px;
+}
+
+/*latest new start*/
+.news {
+    margin-bottom: 40px;
+}
+.news h2 {
+    margin-left: 65px;
+}
+.icons {
+    margin-left: 70px;
+}
+.two {
+    margin-left: -207px;
+}
+/*latest new end*/
+
+
+/*contact us start*/
+.contact {
+    margin-top: 50px;
+}
+
+
+.f_icon ul li {
+    margin-bottom: 15px;
+}
+.f_button {
+    margin-top: 40px;
+    margin-left: 0;
+}
+/*partner start*/
+.partner {
+    margin-top: 50px;
+}
+/*.footer1 start*/
+.footer1 {
+    margin-top: 50px;
+    padding:50px 0;
+}
+.fot_item {
+    margin-bottom: 40px;
+    text-align: center;
+}
+.service {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.info {
+    margin-top: 40px;
+}
+.insta {
+    text-align: center;
+
+}
+.instagram {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.info {
+    margin-top: 40px;
+    text-align: center;
+}
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.header {
+    padding: 10px 0;
+}
+.menu ul li a {
+    margin-bottom: -20px;
+    margin-right: 0 !important;
+}
+
+/*banner start*/
+
+.b_text h1 {
+    font-size: 35px;
+}
+.b_text p {
+    line-height: 27px;
+    margin-bottom: 30px;
+}
+.bt_positon {
+    display: none;
+}
+.b_position {
+    display: none;
+}
+/*about start*/
+.about {
+    margin-top: 40px;
+}
+.about-img-group {
+    width: 75%;
+    margin-bottom: 100px;
+    text-align: left;
+
+}
+.ab_img_bg {
+    display: none;
+}
+
+.ab_img1 {
+    width: 37%;
+    position: absolute;
+    top: 34px;
+    left: 6px;
+}
+.ab_img2 {
+    position: absolute;
+    top: 33px;
+    width: 34%;
+    right: 5px;
+}
+.a_h3 {
+
+    font-size: 16px;
+}
+.content-box-fluid{
+    margin-top: 70px;
+    text-align: center;
+}
+.content-box-fluid h1 {
+    font-size: 35px;
+    margin-top: 20px;
+}
+.content-box-fluid h5 {
+    font-size: 20px;
+}
+/*special feature start*/
+.special {
+    margin-top: -50px;
+}
+.common h1 {
+    font-size: 40px;
+}
+.s_feature {
+    margin-bottom: 50px;
+}
+
+/*recent work start*/
+.recent {
+    margin-top: 50px;
+}
+.common {
+    margin-bottom: 40px;
+}
+.r_text {
+    margin-left: 30px;
+}
+.r_text h2 {
+    font-size: 21px;
+    margin-bottom: 10px;
+}
+.r_text p {
+    line-height: 28px;
+    margin-bottom: 10px;
+}
+/*completed work start*/
+.completed {
+    margin-top: 50px;
+    padding: 50px 0;
+}
+.com h2 {
+    font-size: 40px;
+}
+.com h3 {
+    font-size: 21px;
+}
+/*completed work end*/
+/*testimonial start*/
+.testimonial {
+    margin-top: 70px;
+}
+
+.t_text {
+    text-align: center;
+    margin-right: 0;
+    margin-left: 0;
+}
+/*team member start*/
+.member {
+    margin-top: 50px;
+}
+.t_member {
+    padding: 10px 5px;
+}
+.t_member ul li a {
+    padding: 0;
+
+}
+/*latest new start*/
+.news {
+    margin-bottom: 40px;
+    padding: 5px 5px;
+    border: 3px solid #f6f7fb;
+}
+.news p {
+    margin-left: -196px;
+}
+.news h2 {
+    font-size: 28px;
+    margin-left: 152px;
+}
+
+.icons {
+    margin-top: 20px;
+    margin-left: 153px;
+}
+.two a {
+    margin-left: -100px;
+}
+
+/*latest new end*/
+
+/*contact us start*/
+.contact {
+    margin-top: 50px;
+}
+.f_button {
+  margin-left: 0;
+}
+/*partner start*/
+.partner {
+    margin-top: 60px;
+}
+/*footer1 start*/
+.footer1 {
+    margin-top: 50px;
+}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.menu ul li a {
+    margin-right: 25px;
+}
+/*banner start*/
+.b_text h1 {
+    font-size: 50px;
+}
+.bt_positon {
+    display: none;
+}
+
+.b_position {
+    display: none;
+}
+/*about start*/
+.about-img-group {
+    width: 90%;
+}
+.ab_img_bg {
+    margin-left: 40px;
+    width: 80%;
+}
+
+.ab_img1 {
+    width: 25%;
+    position: absolute;
+    top: 168px !important;
+}
+.ab_img2 {
+    position: absolute;
+    top: 111px;
+    width: 21%;
+}
+.a_h3 {
+    font-size: 18px;
+}
+.content-box-fluid h1 {
+    font-size: 35px;
+}
+.content-box-fluid h5 {
+    font-size: 18px;
+}
+/*special feature start*/
+.s_feature {
+    padding: 30px 10px;
+}
+/*recent work start*/
+.r_text {
+    margin-left: 70px;
+}
+.r_text h2 {
+    font-size: 26px;
+    margin-bottom: 15px;
+}
+.r_text p {
+    line-height: 28px;
+    margin-bottom: 10px;
+}
+
+/*testimonial start*/
+
+.t_text {
+    margin-right: 20px;
+    margin-left: 26px;
+}
+.t_text img {
+    margin-bottom: 20px;
+}
+.t_text p {
+    margin-bottom: 20px;
+}
+/*happy member start*/
+.t_member ul li a {
+  padding: 0 9px;
+}
+/*latest new start*/
+.news p {
+    margin-left: -88px;
+}
+.news h2 {
+    font-size: 20px;
+    margin-left: 13px;
+}
+.icons {
+    margin-top: 20px;
+    margin-left: 12px;
+}
+.two a {
+    margin-left: 127px;
+}
+
+/*latest new end*/
+/*contact us start*/
+.f_button {
+    margin-left: 258px;
+}
+
+/*footer start*/
+.service h2 {
+    font-size: 31px;
+}
+
+}
+
+ /*extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+   /*banner*/
+    .bt_positon {
+   display: none;
+}
+.b_position {
+    top: 145px;
+    right: 17px;
+}
+/*about start*/
+.about-img-group {
+    width: 90%;
+}
+.ab_img_bg {
+    margin-left: 40px;
+    width: 80%;
+}
+
+.ab_img1 {
+    width: 25%;
+    position: absolute;
+    top: 170px;
+}
+.ab_img2 {
+    position: absolute;
+    top: 105px;
+    width: 21%;
+}
+.content-box-fluid h1 {
+    font-size: 38px;
+}
+
+.content-box-fluid h5 {
+    font-size: 22px;
+}
+/*latest news start*/
+.news p {
+    margin-left: -157px;
+}
+.news h2 {
+    font-size: 23px;
+    margin-left: 10px;
+}
+.icons {
+    margin-top: 20px;
+    margin-left: 13px;
+}
+.two a {
+    margin-left: 63px;
+}
+
+    
+ } 
+
+/*Extra Extra large devices (Extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+    /*banner*/
+    .bt_positon {
+   display: none;
+}
+.b_position {
+    top: 164px;
+    right: 269px;
+}
+/*about start*/
+.about-img-group {
+    width: 90%;
+}
+.ab_img_bg {
+    margin-left: 40px;
+    width: 60%;
+}
+
+.ab_img1 {
+    width: 24%;
+    position: absolute;
+    top: 190px;
+}
+.ab_img2 {
+    position: absolute;
+    top: 99px;
+    width: 20%;
+}
+    
+}
